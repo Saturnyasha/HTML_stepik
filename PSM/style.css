@@ -15,7 +15,7 @@ h1 {
     font-size: 20px;
     background-color: aquamarine;
 }
-.elements {
+table {
     text-align: center;
 }
 body {
@@ -27,5 +27,23 @@ body {
 }
 
 table, th, td {
-    border: 2x solid rgb(0, 0, 0)
+    border: 2x solid rgb(0, 0, 0);
+    opacity: 1;
+}
+.elements_la-ac {
+    text-align: center;
+    background-color: lightgreen;
+}
+
+.s-block{
+    background-color: rgb(244, 138, 119);
+}
+.p-block{
+    background-color: rgb(255, 250, 119);
+}
+.d-block {
+    background-color: rgb(125, 217, 248);
+}
+.f-block {
+    background-color: lightgreen;
 }
